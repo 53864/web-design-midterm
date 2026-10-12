@@ -1,4 +1,12 @@
-<style> 
+
+img {
+  <img src="url(../images/mary-j-sampson.jpg)" alt="woman smiling">
+  width: 150px;
+  height: 150px;
+  object-fit: cover; 
+  margin-left: 82%;  
+  padding-top: 10px;
+}
 body {
   max-width: 800px;
   margin: 0 auto;
@@ -6,6 +14,10 @@ body {
 
 .sender-column {
   text-align: right;
+}
+
+.sender-column p{
+  margin: 0;
 }
 
 h1 {
@@ -23,4 +35,24 @@ p,ul,ol,dl,address {
 p, li, dd, dt, address {
   line-height: 1.5;
 }
-</style>
+.Drcontainer {
+  text-align: right;
+}
+.info {
+  font-style: italic;
+  
+}
+.bold {
+  font-weight: bold;
+}
+.introduction {
+  line-height: 10px;
+ 
+}
+.list {
+  list-style: none;
+}
+.quote {
+  font-style: italic;
+}
+
