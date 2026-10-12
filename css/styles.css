@@ -56,3 +56,7 @@ p, li, dd, dt, address {
   font-style: italic;
 }
 
+.Thankyou {
+  line-height: 0;
+  
+}
