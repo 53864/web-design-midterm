@@ -52,6 +52,9 @@ p, li, dd, dt, address {
 .list {
   list-style: none;
 }
+.Dates {
+  list-style: none;
+}
 .quote {
   font-style: italic;
 }
